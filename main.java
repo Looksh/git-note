@@ -1,7 +1,7 @@
 class main {
     private int num;
 
-    void hello() {
-        
-    }
+    void hello() {}
+
+    void sayGoodBye() {}
 }
